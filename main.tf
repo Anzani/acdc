@@ -1,3 +1,1 @@
-#Hellow this is terraform main file #
----
-
+hello world
